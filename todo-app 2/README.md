@@ -2,7 +2,7 @@
 
 A modern, full-stack task management application built with performance and user experience in mind. This project demonstrates a complete CRUD workflow with authentication, featuring a polished UI and a robust backend.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - **React** (with Vite) for a fast, reactive UI.
